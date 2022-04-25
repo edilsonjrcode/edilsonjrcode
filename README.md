@@ -1,7 +1,7 @@
 ### Olá, eu sou Edilson Júnior, estudante de Sistemas para Internet e um Desenvolvedor Web 👋
 
 <div align="center">
- <a href="https://github.com/rafaballerini">
+ <a href="https://github.com/edilsonjrcode">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edilsonjrcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonjrcode&layout=compact&langs_count=7&theme=dracula"/>
 </div>
