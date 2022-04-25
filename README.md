@@ -1,4 +1,4 @@
-### Olá, eu sou Edilson Júnior, estudante de Sistemas para Internet e um Desenvolvedor Web 👋
+### Olá, eu sou Edilson Júnior, seja bem-vindo ao meu perfil 👋
 
 <div align="center">
  <a href="https://github.com/edilsonjrcode">
