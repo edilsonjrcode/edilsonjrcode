@@ -3,16 +3,22 @@
 
 <div align="center">
   <a href="https://github.com/edilsonjrcode">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edilsonjrcode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonjrcode&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edilsonjrcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonjrcode&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
   
- <h2>Linguagens que domino:</h2>
+ <h2>Linguagens, tecnologias e ferramentas que utilizo:</h2>
  <div style="display: inline_block">
  <img align="center" alt="Edilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Edilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Edilson-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+ <img align="center" alt="Edilson-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  <img align="center" alt="Edilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Edilson-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+ <img align="center" alt="Edilson-Jupiter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+ <img align="center" alt="Edilson-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Edilson-Canva" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
 </div>
 <br>
  
