@@ -1,18 +1,18 @@
-<h1>Olá, eu sou Edilson Júnior, seja bem-vindo ao meu perfil 👋:call_me_hand:</h1>
+<h1>Hello, I'm Edilson Júnior, welcome to my profile 👋:call_me_hand:</h1>
 <br>
 
-<p>Tenho 21 anos e estudo Sistemas para Internet, no Centro Universitário - UNIESP. Gosto bastante da área de desenvolvimento web e análise de dados.
-Fissurado em tecnologia, esse perfil destina-se a apresentar os meus trabalhos já desenvolvidos ou em desenvolvimento.</p> 
+<p>I am 21 years old and I study Internet Systems at Centro Universitário - UNIESP. I really like the area of web development and data science.
+Fissured in technology, this profile is intended to present my work already developed or in development.</p>
 
 <br>
 <div align="center">
   <a href="https://github.com/edilsonjrcode">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edilsonjrcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonjrcode&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=edilsonjrcode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonjrcode&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
   
- <h2>Linguagens, tecnologias e ferramentas que utilizo:</h2>
+ <h2>Languages, technologies and tools I use:</h2>
  <div style="display: inline_block">
  <img align="center" alt="Edilson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Edilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,7 +28,7 @@ Fissurado em tecnologia, esse perfil destina-se a apresentar os meus trabalhos j
  
 ###
   
-  <h2>Me encontre em:</h2>
+  <h2>Find me at::</h2>
 <div> 
   <a href="https://instagram.com/jr.nasci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:edilsonjr8717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
