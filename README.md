@@ -1,4 +1,4 @@
-<h1>Hello, I'm Edilson Júnior, welcome to my profile 👋:call_me_hand:</h1>
+<h1>Hello, I'm Edilson Júnior, welcome to my profile 👋</h1>
 <br>
 
 <p>I am 21 years old and I study Internet Systems at Centro Universitário - UNIESP. I really like the area of web development and data science.
