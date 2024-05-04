@@ -1,7 +1,7 @@
 <h1>Hello, I'm Edilson Júnior, welcome to my profile 👋</h1>
 <br>
 
-<p>I am 22 years old and I study Internet Systems at Centro Universitário - UNIESP. I really like the area of web development and data science.
+<p>I am 23 years old and I study Internet Systems at Centro Universitário - UNIESP. I really like the area of web development and data science.
 Fissured in technology, this profile is intended to present my work already developed or in development.</p>
 
 <br>
