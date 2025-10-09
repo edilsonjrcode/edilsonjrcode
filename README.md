@@ -1,7 +1,7 @@
 <h1>Hello, I'm Edilson Júnior, welcome to my profile 👋</h1>
 <br>
 
-<p>Fullstack and Backend Developer with a Postgraduate Degree (MBA) in Fullstack Web Development and a Bachelor's Degree in Internet Systems. I'm passionate about creating robust and scalable solutions. My journey in technology began in 2021, and since then I've dedicated my time to mastering the full development cycle, from UI/UX design to backend and frontend implementation, focusing on learning and applying market best practices to deliver real value to projects.</p>
+<p>Fullstack Developer with a Postgraduate Degree (MBA) in Fullstack Web Development and a Bachelor's Degree in Internet Systems. I'm passionate about creating robust and scalable solutions. My journey in technology began in 2021, and since then I've dedicated my time to mastering the full development cycle, from UI/UX design to backend and frontend implementation, focusing on learning and applying market best practices to deliver real value to projects.</p>
 
 <br>
 <div align="center">
