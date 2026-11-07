@@ -130,8 +130,21 @@
 <br />
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=edilsonjrcode&show_icons=true&hide_border=true&rank_icon=github&locale=pt-br&bg_color=111318&title_color=FAFAF7&text_color=DCE3FF&icon_color=6F87FF&ring_color=2B4BFF" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonjrcode&layout=compact&hide_border=true&locale=pt-br&bg_color=111318&title_color=FAFAF7&text_color=DCE3FF" alt="Linguagens mais usadas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img width="100%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Resumo do perfil e contribuições" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img width="49%" src="./profile-summary-card-output/github/3-stats.svg" alt="Estatísticas do GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img width="49%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+  </picture>
 </p>
 
 </details>
